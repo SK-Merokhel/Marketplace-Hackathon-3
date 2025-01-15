@@ -1,0 +1,46 @@
+E-Commerce Website Selling Branded Second-Hand Clothing
+├── Marketplace Type
+│   └── E-Commerce (Online Shopping Platform)
+│       └── Online thrift store offering high-quality, branded second-hand clothes, home textiles, and accessories for men, women, and kids.
+├── Goals
+│   ├── Affordability
+│   │   └── Provide customers with premium, branded clothing and textiles at reduced prices.
+│   ├── Sustainability
+│   │   └── Promote eco-friendly shopping by reusing and recycling high-quality goods.
+│   ├── Convenience
+│   │   └── Create a seamless online shopping experience with features like secure payments, easy returns, and home delivery.
+│   └── EcoPoints Program
+│       └── Earn points for each purchase to redeem discounts or donate to environmental causes.
+├── Quick Rough Plan / Data Schema for Marketplace
+│   ├── Customer Details
+│   │   ├── ID
+│   │   ├── Name
+│   │   ├── Email
+│   │   ├── Address
+│   │   └── Order History
+│   ├── Product Information
+│   │   ├── Product ID
+│   │   ├── Name
+│   │   ├── Description
+│   │   ├── Price
+│   │   ├── Condition
+│   │   ├── Brand
+│   │   ├── Category (Men/Women/Kids/Home)
+│   │   ├── Images
+│   │   └── Stock Availability
+│   └── Add to Cart
+│       ├── Order ID
+│       ├── Customer ID
+│       ├── Product IDs
+│       └── Payment Details
+├── Unique Selling Points (USPs)
+│   ├── Authenticity Guaranteed
+│   │   └── Verified branded items only.
+│   ├── Hygiene Standards
+│   │   └── Strict cleaning and quality checks before listing.
+│   ├── Eco-Conscious
+│   │   └── Every purchase helps reduce textile waste.
+│   ├── Virtual Dressing Room
+│   │   └── A feature that lets customers try outfits using AR.
+│   └── Condition Grading
+│       └── Transparent grading system (e.g., "Like New," "Gently Used") ensures clarity for buyers.
