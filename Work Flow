@@ -1,0 +1,39 @@
+E-Commerce Website Workflow (Branded Second-Hand Clothing)
+├── Customer Visits Website
+│   ├── Browses through Categories (Men, Women, Kids, Home Textiles)
+│   ├── Searches for Specific Items (Brand, Size, Condition)
+│   ├── Filters Products (Price, Condition, Brand)
+│   └── Views Product Details (Images, Description, Price, Condition Grading)
+│
+├── Customer Adds Product to Cart
+│   ├── Selects Size (If applicable)
+│   ├── Checks Stock Availability
+│   └── Continues Browsing or Proceeds to Checkout
+│
+├── Checkout Process
+│   ├── Customer Logs In or Creates an Account
+│   ├── Enters Shipping Address and Payment Information
+│   ├── Reviews Order (Products, Total Price, Discounts, EcoPoints)
+│   ├── Selects Payment Method (Credit Card, PayPal, etc.)
+│   └── Applies Coupons or EcoPoints (if applicable)
+│
+├── Order Confirmation
+│   ├── Customer Receives Order Confirmation Email
+│   ├── Order ID is Generated
+│   └── Inventory System Updates to Reflect Stock Deduction
+│
+├── Product Preparation and Shipping
+│   ├── Warehouse Team Retrieves Item from Stock
+│   ├── Item Goes Through Cleaning and Quality Check Process
+│   ├── Product is Packaged for Shipping
+│   └── Shipping Label is Created, and Shipment Sent Out
+│
+├── Customer Receives Product
+│   ├── Customer Tracks Shipment via Order ID
+│   ├── Customer Receives Product at Address
+│   └── Option for Returns/Exchanges if Necessary (within return window)
+│
+├── Post-Purchase Interaction
+│   ├── Customer Can Leave Reviews on Product (Condition, Fit, Quality)
+│   ├── EcoPoints Are Updated for Future Purchases
+│   └── Customer Receives Email for Discounts or Promotional Offers
