@@ -1,0 +1,54 @@
+{
+  "node": {
+    "d10821ecd31ac201f4b166368d3b97c21b073a23": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmnt%2Fsda5%2FMarketplace-Hackathon-3%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22deleteKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%5D&__client_imported__=!",
+        "app/studio/[[...tool]]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmnt%2Fsda5%2FMarketplace-Hackathon-3%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22deleteKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/studio/[[...tool]]/page": "rsc"
+      }
+    },
+    "f02eb4a72b0672c9a24fe67e98c5e0986953331f": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmnt%2Fsda5%2FMarketplace-Hackathon-3%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22deleteKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%5D&__client_imported__=!",
+        "app/studio/[[...tool]]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmnt%2Fsda5%2FMarketplace-Hackathon-3%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22deleteKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/studio/[[...tool]]/page": "rsc"
+      }
+    },
+    "f5cc3f2c4a7492e89905c8613cb6f74c26993f7e": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmnt%2Fsda5%2FMarketplace-Hackathon-3%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22deleteKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%5D&__client_imported__=!",
+        "app/studio/[[...tool]]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmnt%2Fsda5%2FMarketplace-Hackathon-3%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22deleteKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/studio/[[...tool]]/page": "rsc"
+      }
+    },
+    "8275f7198a59761a8aacda24561bda732f78995d": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmnt%2Fsda5%2FMarketplace-Hackathon-3%2Fnode_modules%2Fnext-sanity%2Fdist%2Fvisual-editing%2Fserver-actions.js%22%2C%5B%22revalidateRootLayout%22%5D%5D%2C%5B%22%2Fmnt%2Fsda5%2FMarketplace-Hackathon-3%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "c451b17e03e5efcd91802863cd289c87787c5800": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmnt%2Fsda5%2FMarketplace-Hackathon-3%2Fnode_modules%2Fnext-sanity%2Fdist%2Fvisual-editing%2Fserver-actions.js%22%2C%5B%22revalidateRootLayout%22%5D%5D%2C%5B%22%2Fmnt%2Fsda5%2FMarketplace-Hackathon-3%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/studio/[[...tool]]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmnt%2Fsda5%2FMarketplace-Hackathon-3%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/studio/[[...tool]]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "+wHS/yjiyensD3fm8lNlGKFOcq/APrKUiWXB7IpEvxk="
+}

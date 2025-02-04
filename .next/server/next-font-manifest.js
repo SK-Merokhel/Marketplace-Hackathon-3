@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/mnt/sda5/Marketplace-Hackathon-3/src/app/page\":[\"static/media/a34f9d1faa5f3315-s.p.woff2\"],\"/mnt/sda5/Marketplace-Hackathon-3/src/app/layout\":[\"static/media/a34f9d1faa5f3315-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
